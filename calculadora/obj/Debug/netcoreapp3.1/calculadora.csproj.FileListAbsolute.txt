@@ -1,0 +1,12 @@
+C:\Users\veronica.salazar\source\repos\calculadora\bin\Debug\netcoreapp3.1\calculadora.exe
+C:\Users\veronica.salazar\source\repos\calculadora\bin\Debug\netcoreapp3.1\calculadora.deps.json
+C:\Users\veronica.salazar\source\repos\calculadora\bin\Debug\netcoreapp3.1\calculadora.runtimeconfig.json
+C:\Users\veronica.salazar\source\repos\calculadora\bin\Debug\netcoreapp3.1\calculadora.runtimeconfig.dev.json
+C:\Users\veronica.salazar\source\repos\calculadora\bin\Debug\netcoreapp3.1\calculadora.dll
+C:\Users\veronica.salazar\source\repos\calculadora\bin\Debug\netcoreapp3.1\calculadora.pdb
+C:\Users\veronica.salazar\source\repos\calculadora\obj\Debug\netcoreapp3.1\calculadora.AssemblyInfoInputs.cache
+C:\Users\veronica.salazar\source\repos\calculadora\obj\Debug\netcoreapp3.1\calculadora.AssemblyInfo.cs
+C:\Users\veronica.salazar\source\repos\calculadora\obj\Debug\netcoreapp3.1\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\veronica.salazar\source\repos\calculadora\obj\Debug\netcoreapp3.1\calculadora.dll
+C:\Users\veronica.salazar\source\repos\calculadora\obj\Debug\netcoreapp3.1\calculadora.pdb
+C:\Users\veronica.salazar\source\repos\calculadora\obj\Debug\netcoreapp3.1\calculadora.genruntimeconfig.cache
